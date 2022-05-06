@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Первая неделя"
-subtitle: "пост о первой прошедшей гнеделе"
+subtitle: "Пост о первой прошедшей неделе"
 summary: ""
 authors: 
   - admin
