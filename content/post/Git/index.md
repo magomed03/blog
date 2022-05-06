@@ -3,7 +3,7 @@
 
 title: "Git"
 subtitle: "Что такое git и с чем его едят"
-summary: ""
+summary: "Что такое git и с чем его едят"
 authors:
   - admin
   - 吳恩達
