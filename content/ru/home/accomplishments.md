@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Дости&shy;жения'
 subtitle:
 
 # Date format
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: http://www.asosh.edu95.ru/
     date_end: ''
-    date_start: '2021-01-28'
+    date_start: '2021-05-28'
     description: ''
     organization: Алпатовская СОШ
     organization_url: http://www.asosh.edu95.ru

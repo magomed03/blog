@@ -58,5 +58,3 @@ highlight_name: true
 ---
 
 Мажитов Магомед - студент Российского университета дружбы народов. Учится на 1-ом курсе по направлению "Математика и компьютерные науки". Часто ходит в наушниках, любит играть волейбол, хочет найти себя в IT.  
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
