@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Majitov Magomed
+title: Mazhitov Magomed
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Pragramming
+  - Programming
   - Voleybal
 
 # Education to show in About widget
